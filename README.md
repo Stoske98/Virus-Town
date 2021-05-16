@@ -6,3 +6,10 @@ Virus town is a game about a grandpa who fights against coronavirus, and the ide
 2. Use password 123456
 3. Download the project
 4. Run a game
+
+## What the game looks like
+![alt_text](https://github.com/Stoske98/Virus-Town/blob/main/Screenshots/Loading.png)
+![alt_text](https://github.com/Stoske98/Virus-Town/blob/main/Screenshots/slider-assets.png)
+![alt_text](https://github.com/Stoske98/Virus-Town/blob/main/Screenshots/p6.png)
+![alt_text](https://github.com/Stoske98/Virus-Town/blob/main/Screenshots/p7.png)
+![alt_text](https://github.com/Stoske98/Virus-Town/blob/main/Screenshots/p8.png)
