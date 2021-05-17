@@ -8,6 +8,7 @@ Virus town is a game about a grandpa who fights against coronavirus, and the ide
 4. Run a game
 
 ## What the game looks like
+### Video : https://youtu.be/rQp0JlbDvP0
 ![alt_text](https://github.com/Stoske98/Virus-Town/blob/main/Screenshots/Loading.png)
 ![alt_text](https://github.com/Stoske98/Virus-Town/blob/main/Screenshots/slider-assets.png)
 ![alt_text](https://github.com/Stoske98/Virus-Town/blob/main/Screenshots/p6.png)
