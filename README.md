@@ -1,6 +1,11 @@
 # Virus Town
 Virus town is a game about a grandpa who fights against coronavirus, and the idea behind this game was to bring a bit of brightness in these difficult times.
 
+## More information
+1. Status - Prototype
+2. Platforms -	Windows | Android
+3. Genre	- Survival
+
 ## How to download the game
 1. Go to https://stoske98.itch.io/virus-town
 2. Use password 123456
